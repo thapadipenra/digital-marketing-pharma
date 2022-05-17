@@ -1,0 +1,82 @@
+Course 1: SEO link building:
+Link building: link popularity, the more high quality link that point to your website, the higher you will rank in search engine result page.
+(SERPs).
+We will look at link analysis tools.
+Links helps search engine to discover content of your website, link identify content is valuable as other have back linked.
+All links are not valuable. More quality ink point to your side more visitor you will receive.
+Link analysis tools:
+moz.com/link-explorer
+https://majestic.com/reports/site-explorer
+ahrefs.com/backlink-checker
+
+link popularity: the more high quality link points to your site, the more likely your targeted keyword rank in search page.
+A measure of how popular a webpage is based on number of links pointing to that page called link popularity.
+Not only link popularity but also quality of inbound links is also considered for ranking page so link popularity alone don’t determine ranking.
+Inbound links are links that come from other websites or a different domain name. Outbound links are those links on your website that link out to websites with a different domain name.
+linkpopularity.com
+moz.com
+majestic.com
+ahrefs.com
+
+Search engine uses more than basic link popularity for determining page ranking in search engine result pages. Google uses pageRank algorithm to determine value assigned to every page based on number of links point to that page called authority. As one page links to another sends authority to another. If two web pages links to one of our page of our site and if one has high page rank while other have low than authority given to our page by high page rank site is more than low page rank site. Also amount of authority passed on by a page is diluted by total number of outgoing links on that page. If page with high page rank having only one outgoing link passes more authority than same page having more outgoing link.
+Google no longer publishes pageRanks data publicly so, tool we use uses their own pseudo page rank metrics eg moz uses page authority, majestic uses citation flow metrics as replacement of page rank and ahrefs uses URL rating etc.
+
+SITEWIDE AUTHORITY(trust rank): it is the ranking given to entire domain/entire website. It include overall links and quality of those links as well as manual intervention done by google team(eg website with .gov is more trustworthy than .com. Trust rank is transferred through link in same way as page rank is transferred. Trust rank is also called domain authority. Passes authority. Trust rank also can be diluted based on number of outgoing link from particular website as in page rank. High trust rank website passes more authority if outgoing link is small. Both page rank and trust rank algorithm used to determine which page should rank higher. Like page rank google don’t publicly release trust rank data so, tools comes with it’s alternative, pseudo trust rank scores metrics, majestic website use trust flow, moz.com uses domain authority, if I enter new page, page authority changes while domain authority remain same. ahrefs uses Domain rating etc
+
+Anchor text is important as google uses as keyword to rank that hyperlink in anchor tag.
+Wordpress CMS.
+
+Links placement: make sure link placed in body of text. Place link at top helps in human aspect easy to click. Makes sure link placed outside of javascript as google can’t read javascript. You want to have your link on page having high page rank and website with high trust rank.
+We wank our link to be placed on pages that are indexed by search engine.
+Add target=\_blank in anchor tag for external link but not on internal links but don’t affect in search engines only user experience.
+In anchor tag one property rel=“nofollow” this tells search engine not to pass authority to this link so, used when people add comment rel=“nofollow” gets automatically added which ensure search engine aren’t taking into account on passing page rank and trust rank from your site to link site because in old days this is used to spam website as authority can be passed through commenting site. Descriptive anchor text better than image anchor text.
+
+Link analysis tools: moz.com
+Take look at your and review own backlink profile.
+Review backlink of our competitors.
+Reddit forum/discussion group campaign for creating inbound links.
+directory campaign
+
+Real link vs fake link: creator find link valuable vs monitory offer in exchange for links
+Providing value to users set web site up.
+Social networking account(despite nofollow links): must social site use no follow links.
+Link pages to profile page of site you are member of eg fb profile..
+forum(reddit)
+Links in directories: if site you promoting related to your local business, like law firm, medical office, retail store, plumber etc it’s good idea to get links from local dir which increase chance someone find your business.
+
+Link your website to:
+Some local directory: google my business, bing places for business, yellow pages, yelp, city search.
+Some directory services:advice local, synup, bright local, yext,  
+Speciality directory according to your niche.
+If directory to list your website are paid look page rank and trust rank for those directory before paying..
+Use Guest blogging to link your site..
+Avoid paying for link placement in blog.
+
+1>Find blog that provide value to your backlink profile. Google. Earphone Nepal“guest post” and find blog/site
+2>Show the blog owner how your site is valuable to their reader.
+3>Contact blogger and suggest ways you both can work together. Show them how your link benefit their readers.
+4>You can write each-other if same industry.
+
+Contest/giveways to viewers. Give free product /coupon
+
+Creating Link bait: LinkBait is content designed to attract attention and encourage those viewing it to create hyperlinks to the site, with the aim of improving site’s position on the list of results returned by search engine.
+Link bait can also be defined as content marketing.
+One way to do as master is create a platform where users create the content or link bait for you classic eg YouTube, wiki, reddit and even social networking sites. All this site benefited from user created content generating literally billions of links to their sites.
+For you cannot (not impossible) to built such huge platform but you can do on modest scale by hosting blog on subject related to your working industry. Make blog portion for each product of your e-commerce or hose in different site.
+
+Blog/content marketing ideas:
+1> Free/paid Online tools and calculators is great way to receive lot of links to your website.
+Mortgage company do this in their website where people can calculate average mortgage based on some metrics.
+2> do in-depth tutorials or how to articles.
+3> news about recent industry changes.
+4> series of video about using your product.
+5> infographics in pages..
+YouTube and wiki are similar and make use of user-generated content or link bait. In fact many of top words websites do this like job hunt site, room finder site, one method to create support forms related to product or service as apple do where customers post questions about the products. Support forms can act as link bait attracting thousand of links.
+
+Social site links are always nofollow links but those link gives you visitors to your sites.social network post sometime get in search results.
+Google penalizes paid link in sites but not premium directory which backlinks many business. Directory and local directories site have human review and vetting process are more likely to be accepted by google rather than penalize. Eg yahoo small business.
+
+Link building: blog, directories and forum.
+Creative method to get links ie backlinks(infographics): can drive lot of traffic.
+Press release services:they do cost money but they will write press releases for you and comes with follow links.
+Content marketing: high quality content.
